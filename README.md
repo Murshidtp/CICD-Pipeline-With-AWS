@@ -38,6 +38,7 @@ Ensure you have the following set up:
 - AWS CLI configured with access to CodeCommit, CodeBuild, CodeDeploy, CodePipeline, and ECR.
 - `buildspec.yml`: Configuration file for AWS CodeBuild, defining the build steps and environment settings.
 - `appspec.yml`: Configuration file for AWS CodeDeploy, specifying how to deploy the application onto the target environment.
+- `Dockerfile` is a configuration file used to define the steps and instructions for building a Docker image.
 
 ## Setup
 
