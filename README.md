@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project showcases an end-to-end CI/CD pipeline implementation using AWS services. The pipeline incorporates AWS CodeCommit for version control, AWS CodeBuild for automated build processes, AWS CodeDeploy for deployment automation, and AWS CodePipeline for orchestrating the entire workflow. Additionally, Amazon Elastic Container Registry (ECR) is utilized for storing Docker images. The primary goals of this pipeline are to improve development efficiency, reduce time by automating repetitive tasks, and minimize manual interventions.
+This project showcases an end-to-end CI/CD pipeline implementation using AWS services. The pipeline incorporates AWS CodeCommit for version control, AWS CodeBuild for automated build processes, AWS CodeDeploy for deployment automation, and AWS CodePipeline for orchestrating the entire workflow. Additionally, the Amazon Elastic Container Registry (ECR) is utilized for storing Docker images. The primary goals of this pipeline are to improve development efficiency, reduce time by automating repetitive tasks, and minimize manual interventions.
 
 ## AWS Services Used
 
@@ -90,7 +90,7 @@ If you encounter any issues, refer to the following:
 
 For a detailed walkthrough and tutorial on setting up a CI/CD pipeline with Flask application using AWS CodeBuild, CodeDeploy, and CodePipeline, you can refer to the following article:
 
-[CI/CD of Flask Application using AWS CodeBuild, CodeDeploy, and CodePipeline - Part 4](https://medium.com/@purnimachowrasia/ci-cd-of-flask-application-using-aws-codebuild-codedeploy-and-codepipeline-part-4-97aef0033c09)
+[CI/CD of Flask Application using AWS CodeBuild, CodeDeploy, and CodePipeline](https://medium.com/@purnimachowrasia/ci-cd-of-flask-application-using-aws-codebuild-codedeploy-and-codepipeline-part-4-97aef0033c09)
 
 ...
 
